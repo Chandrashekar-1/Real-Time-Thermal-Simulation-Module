@@ -1,4 +1,4 @@
-                                                  REAL-TIME THERMAL SIMULATION MODULE 
+                                                  REAL TIME THERMAL SIMULATION MODULE 
 The project demonstrates a thermal scanner using a regular webcam to provide a simulated object temperature display. The video recording and image processing enable a heat map-like visual representation. It does not measure temperatures but maps pixel intensity values to some specified temperature range, creating a colorful representation of what the heat would look like.
 
 **Key Features:**
